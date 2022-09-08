@@ -1,0 +1,947 @@
+1608832721907	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile945PI5"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608832724189	Marionette	INFO	Listening on port 32997
+1608832724241	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///home/brayan/PROJETOS/SPYDER/page_arquivos/matomo.html, line 1: SyntaxError: expected expression, got '<'
+1608832739134	Marionette	INFO	Stopped listening on port 32997
+1608832754867	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTHCpjv"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608832757066	Marionette	INFO	Listening on port 43385
+1608832757096	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///home/brayan/PROJETOS/SPYDER/page_arquivos/matomo.html, line 1: SyntaxError: expected expression, got '<'
+1608832914999	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYNfmyT"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608832917116	Marionette	INFO	Listening on port 46319
+1608832917238	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///home/brayan/PROJETOS/SPYDER/page_arquivos/matomo.html, line 1: SyntaxError: expected expression, got '<'
+1608832986252	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilet59ktC"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608832988454	Marionette	INFO	Listening on port 37637
+1608832988492	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///home/brayan/PROJETOS/SPYDER/page_arquivos/matomo.html, line 1: SyntaxError: expected expression, got '<'
+1608833002368	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOUunrG"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608833004631	Marionette	INFO	Listening on port 33591
+1608833004696	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///home/brayan/PROJETOS/SPYDER/page_arquivos/matomo.html, line 1: SyntaxError: expected expression, got '<'
+1608833058218	Marionette	INFO	Stopped listening on port 43385
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1608833060220	Marionette	INFO	Stopped listening on port 46319
+1608833067397	Marionette	INFO	Stopped listening on port 33591
+1608833363694	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJ5CHCF"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608833365912	Marionette	INFO	Listening on port 43527
+1608833366047	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///home/brayan/PROJETOS/SPYDER/page_arquivos/matomo.html, line 1: SyntaxError: expected expression, got '<'
+console.info: MINT: main/search-config update being skipped
+1608833388311	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejC4Db7"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608833390687	Marionette	INFO	Listening on port 38827
+1608833390751	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///home/brayan/PROJETOS/SPYDER/page_arquivos/matomo.html, line 1: SyntaxError: expected expression, got '<'
+1608833406673	Marionette	INFO	Stopped listening on port 38827
+1608833409662	Marionette	INFO	Stopped listening on port 43527
+1608833412348	Marionette	INFO	Stopped listening on port 37637
+1608833422856	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecaKIqa"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608833425233	Marionette	INFO	Listening on port 34963
+1608833425285	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///home/brayan/PROJETOS/SPYDER/page_arquivos/matomo.html, line 1: SyntaxError: expected expression, got '<'
+1608833439369	Marionette	INFO	Stopped listening on port 34963
+1608833527667	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevmkbkB"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608833530021	Marionette	INFO	Listening on port 42721
+1608833530117	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///home/brayan/PROJETOS/SPYDER/page_arquivos/matomo.html, line 1: SyntaxError: expected expression, got '<'
+1608833532092	Marionette	INFO	Stopped listening on port 42721
+1608833560850	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQPczni"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608833563057	Marionette	INFO	Listening on port 41673
+1608833563176	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///home/brayan/PROJETOS/SPYDER/page_arquivos/matomo.html, line 1: SyntaxError: expected expression, got '<'
+1608833595228	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWk8y8Q"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608833597729	Marionette	INFO	Listening on port 39813
+1608833597757	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///home/brayan/PROJETOS/SPYDER/page_arquivos/matomo.html, line 1: SyntaxError: expected expression, got '<'
+1608833600711	Marionette	INFO	Stopped listening on port 39813
+1608833612702	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileznw6sA"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608833614924	Marionette	INFO	Listening on port 33391
+1608833615028	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///home/brayan/PROJETOS/SPYDER/page_arquivos/matomo.html, line 1: SyntaxError: expected expression, got '<'
+1608833633005	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGljVy2"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608833635252	Marionette	INFO	Listening on port 34477
+1608833635344	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///home/brayan/PROJETOS/SPYDER/page_arquivos/matomo.html, line 1: SyntaxError: expected expression, got '<'
+1608833638185	Marionette	INFO	Stopped listening on port 34477
+1608833822118	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0v9hgk"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608833824524	Marionette	INFO	Listening on port 36355
+1608833824647	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///home/brayan/PROJETOS/SPYDER/page_arquivos/matomo.html, line 1: SyntaxError: expected expression, got '<'
+1608833884422	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledpWN8Z"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608833886619	Marionette	INFO	Listening on port 44037
+1608833886659	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///home/brayan/PROJETOS/SPYDER/page_arquivos/matomo.html, line 1: SyntaxError: expected expression, got '<'
+1608833906667	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepBeBTr"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608833908975	Marionette	INFO	Listening on port 37345
+1608833909095	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///home/brayan/PROJETOS/SPYDER/page_arquivos/matomo.html, line 1: SyntaxError: expected expression, got '<'
+1608833911151	Marionette	INFO	Stopped listening on port 37345
+1608833925019	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2qItgi"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608833927260	Marionette	INFO	Listening on port 42983
+1608833927374	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///home/brayan/PROJETOS/SPYDER/page_arquivos/matomo.html, line 1: SyntaxError: expected expression, got '<'
+1608833946670	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerjy47S"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608833948971	Marionette	INFO	Listening on port 46203
+1608833948999	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///home/brayan/PROJETOS/SPYDER/page_arquivos/matomo.html, line 1: SyntaxError: expected expression, got '<'
+1608833950965	Marionette	INFO	Stopped listening on port 46203
+console.info: MINT: main/search-config update being skipped
+console.info: MINT: main/search-config update being skipped
+1608834004990	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletrnzBj"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608834007540	Marionette	INFO	Listening on port 34323
+1608834007619	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///home/brayan/PROJETOS/SPYDER/page_arquivos/matomo.html, line 1: SyntaxError: expected expression, got '<'
+1608834009502	Marionette	INFO	Stopped listening on port 34323
+1608834025223	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemnqwKU"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608834027585	Marionette	INFO	Listening on port 39233
+1608834027653	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///home/brayan/PROJETOS/SPYDER/page_arquivos/matomo.html, line 1: SyntaxError: expected expression, got '<'
+1608834029568	Marionette	INFO	Stopped listening on port 39233
+1608834046767	Marionette	INFO	Stopped listening on port 42983
+1608834049921	Marionette	INFO	Stopped listening on port 33391
+1608834051430	Marionette	INFO	Stopped listening on port 44037
+1608834052914	Marionette	INFO	Stopped listening on port 36355
+1608834152351	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqx4YUm"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608834154608	Marionette	INFO	Listening on port 39375
+1608834154682	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608834248516	Marionette	INFO	Stopped listening on port 39375
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child3/domwalker24, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:280:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:617:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:112:18\n_emit@resource://devtools/shared/event-emitter.js:226:34\nemit@resource://devtools/shared/event-emitter.js:172:18\nemit@resource://devtools/shared/event-emitter.js:324:18\nunmanage@resource://devtools/shared/protocol/Front.js:160:37\ndestroy@resource://devtools/shared/protocol/Pool.js:167:14\ndestroy@resource://devtools/shared/protocol/Front.js:65:11\ndestroy@resource://devtools/client/fronts/inspector.js:104:11\n_destroyTarget@resource://devtools/client/fronts/targets/target-mixin.js:664:17\n", "resource://devtools/shared/protocol/Front.js", 101))
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1608834252914	Marionette	INFO	Stopped listening on port 41673
+1608834259981	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8u1R9v"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608834262457	Marionette	INFO	Listening on port 37735
+1608834262508	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608834321592	Marionette	INFO	Stopped listening on port 37735
+1608834324373	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGBcdQn"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608834326553	Marionette	INFO	Listening on port 45963
+1608834326601	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608834661435	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5uHLJJ"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608834663822	Marionette	INFO	Listening on port 37347
+1608834663874	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: main/search-config update being skipped
+1608834787910	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRZyKFt"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608834790588	Marionette	INFO	Listening on port 43661
+1608834790640	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: main/search-config update being skipped
+console.info: MINT: main/search-config update being skipped
+1608835389712	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile42ZEWt"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608835392307	Marionette	INFO	Listening on port 37295
+1608835392387	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: main/search-config update being skipped
+1608836877992	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCEFhFE"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608836880509	Marionette	INFO	Listening on port 45421
+1608836880621	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608836937224	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiC1N0x"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608836939759	Marionette	INFO	Listening on port 33793
+1608836939903	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608837039509	Marionette	INFO	Stopped listening on port 37295
+1608837045910	Marionette	INFO	Stopped listening on port 33793
+1608837047774	Marionette	INFO	Stopped listening on port 45421
+1608837085218	Marionette	INFO	Stopped listening on port 43661
+1608837086955	Marionette	INFO	Stopped listening on port 37347
+1608837095688	Marionette	INFO	Stopped listening on port 45963
+1608837109274	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuM2P0T"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608837112069	Marionette	INFO	Listening on port 36525
+1608837112104	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///home/brayan/PROJETOS/SPYDER/page_arquivos/matomo.html, line 1: SyntaxError: expected expression, got '<'
+1608837114119	Marionette	INFO	Stopped listening on port 36525
+1608837172848	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiler90LPJ"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608837175362	Marionette	INFO	Listening on port 39221
+1608837175478	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///home/brayan/PROJETOS/SPYDER/page_arquivos/matomo.html, line 1: SyntaxError: expected expression, got '<'
+1608837314229	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePAPFTp"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608837316595	Marionette	INFO	Listening on port 33501
+1608837316669	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///home/brayan/PROJETOS/SPYDER/page_arquivos/matomo.html, line 1: SyntaxError: expected expression, got '<'
+1608837439640	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePz07e0"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608837442272	Marionette	INFO	Listening on port 40559
+1608837442405	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///home/brayan/PROJETOS/SPYDER/page_arquivos/matomo.html, line 1: SyntaxError: expected expression, got '<'
+1608837447105	Marionette	INFO	Stopped listening on port 40559
+1608837453249	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejABnCO"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608837456017	Marionette	INFO	Listening on port 42279
+1608837456079	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///home/brayan/PROJETOS/SPYDER/page_arquivos/matomo.html, line 1: SyntaxError: expected expression, got '<'
+console.info: MINT: main/search-config update being skipped
+console.info: MINT: main/search-config update being skipped
+1608837712271	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1Jo3ry"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608837714939	Marionette	INFO	Listening on port 42783
+1608837715011	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///home/brayan/PROJETOS/SPYDER/page_arquivos/matomo.html, line 1: SyntaxError: expected expression, got '<'
+1608837732915	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQRWfaz"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608837735417	Marionette	INFO	Listening on port 39995
+1608837735453	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///home/brayan/PROJETOS/SPYDER/page_arquivos/matomo.html, line 1: SyntaxError: expected expression, got '<'
+1608837828035	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAiQN21"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608837830730	Marionette	INFO	Listening on port 37919
+1608837830763	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///home/brayan/PROJETOS/SPYDER/page_arquivos/matomo.html, line 1: SyntaxError: expected expression, got '<'
+console.info: MINT: main/search-config update being skipped
+1608837943465	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileW151mL"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608837946029	Marionette	INFO	Listening on port 35245
+1608837946111	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///home/brayan/PROJETOS/SPYDER/page_arquivos/matomo.html, line 1: SyntaxError: expected expression, got '<'
+1608838022775	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledsokeW"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608838025268	Marionette	INFO	Listening on port 45373
+1608838025327	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///home/brayan/PROJETOS/SPYDER/page_arquivos/matomo.html, line 1: SyntaxError: expected expression, got '<'
+1608838043209	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileR2o3o5"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608838046129	Marionette	INFO	Listening on port 46477
+1608838046239	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///home/brayan/PROJETOS/SPYDER/page_arquivos/matomo.html, line 1: SyntaxError: expected expression, got '<'
+1608838084791	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZGjF44"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608838087602	Marionette	INFO	Listening on port 32797
+1608838087721	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///home/brayan/PROJETOS/SPYDER/page_arquivos/matomo.html, line 1: SyntaxError: expected expression, got '<'
+console.info: MINT: main/search-config update being skipped
+console.info: MINT: main/search-config update being skipped
+1608838128609	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDlKFk3"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608838131499	Marionette	INFO	Listening on port 34835
+1608838131572	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///home/brayan/PROJETOS/SPYDER/page_arquivos/matomo.html, line 1: SyntaxError: expected expression, got '<'
+1608838183997	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAaBFLT"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608838186802	Marionette	INFO	Listening on port 34877
+1608838186871	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///home/brayan/PROJETOS/SPYDER/page_arquivos/matomo.html, line 1: SyntaxError: expected expression, got '<'
+1608838215452	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOOEBHY"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608838218058	Marionette	INFO	Listening on port 46825
+1608838218187	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///home/brayan/PROJETOS/SPYDER/page_arquivos/matomo.html, line 1: SyntaxError: expected expression, got '<'
+console.info: MINT: main/search-config update being skipped
+1608838233961	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFxeFvp"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608838236626	Marionette	INFO	Listening on port 33031
+1608838236720	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///home/brayan/PROJETOS/SPYDER/page_arquivos/matomo.html, line 1: SyntaxError: expected expression, got '<'
+console.info: MINT: main/search-config update being skipped
+console.info: MINT: main/search-config update being skipped
+console.info: MINT: main/search-config update being skipped
+1608838467133	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileY9BZRy"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608838469918	Marionette	INFO	Listening on port 43191
+1608838469973	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: main/search-config update being skipped
+console.info: MINT: main/search-config update being skipped
+console.info: MINT: main/search-config update being skipped
+console.info: MINT: main/search-config update being skipped
+console.info: MINT: main/search-config update being skipped
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1608838677369	Marionette	INFO	Stopped listening on port 37919
+1608838679987	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilea4znPH"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608838683640	Marionette	INFO	Listening on port 42435
+1608838683742	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: this.curBrowser.messageManager is null
+GeckoDriver.prototype.sendAsync@chrome://marionette/content/driver.js:361:5
+send/<@chrome://marionette/content/proxy.js:190:12
+send@chrome://marionette/content/proxy.js:124:12
+get/<@chrome://marionette/content/proxy.js:37:29
+GeckoDriver.prototype.findElement@chrome://marionette/content/driver.js:2082:28
+
+JavaScript error: https://code.jquery.com/jquery-3.3.1.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 697: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1608838686368	Marionette	INFO	Stopped listening on port 42435
+1608838688543	Marionette	INFO	Stopped listening on port 43191
+1608838695987	Marionette	INFO	Stopped listening on port 33031
+1608838698152	Marionette	INFO	Stopped listening on port 46825
+1608838698775	Marionette	INFO	Stopped listening on port 34877
+1608838699062	Marionette	INFO	Stopped listening on port 34835
+1608838699330	Marionette	INFO	Stopped listening on port 32797
+1608838703876	Marionette	INFO	Stopped listening on port 45373
+1608838705384	Marionette	INFO	Stopped listening on port 46477
+1608838706274	Marionette	INFO	Stopped listening on port 35245
+1608838706967	Marionette	INFO	Stopped listening on port 39995
+1608838709809	Marionette	INFO	Stopped listening on port 42279
+1608838710973	Marionette	INFO	Stopped listening on port 42783
+1608838713302	Marionette	INFO	Stopped listening on port 33501
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1608838715771	Marionette	INFO	Stopped listening on port 39221
+1608838737081	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUmRUbi"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608838740405	Marionette	INFO	Listening on port 42425
+1608838740541	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608838958417	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevW8N0a"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608838961050	Marionette	INFO	Listening on port 45323
+1608838961159	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608839011455	Marionette	INFO	Stopped listening on port 42425
+1608839013103	Marionette	INFO	Stopped listening on port 45323
+1608839030556	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIvv7i8"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608839033693	Marionette	INFO	Listening on port 44731
+1608839033808	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1608839095569	Marionette	INFO	Stopped listening on port 44731
+1608840554269	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEyEXoe"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608840556567	Marionette	INFO	Listening on port 34789
+1608840556597	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608840708454	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2DjDNX"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608840710688	Marionette	INFO	Listening on port 39857
+1608840710793	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1894: TypeError: currentPanel is undefined
+1608840846034	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7z6pUm"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608840848284	Marionette	INFO	Listening on port 45163
+1608840848366	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: main/search-config update being skipped
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofile2DjDNX/protections.sqlite
+1608841045105	Marionette	INFO	Stopped listening on port 39857
+1608841049270	Marionette	INFO	Stopped listening on port 45163
+1608841050861	Marionette	INFO	Stopped listening on port 34789
+1608841102313	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCxJHZp"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608841104684	Marionette	INFO	Listening on port 36747
+1608841104740	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608841184267	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefQ3TAI"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608841186303	Marionette	INFO	Listening on port 46447
+1608841186403	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608841255050	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepRYRKU"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608841257457	Marionette	INFO	Listening on port 39579
+1608841257575	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608841286821	Marionette	INFO	Stopped listening on port 46447
+1608841405800	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUtQ80Q"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608841408295	Marionette	INFO	Listening on port 46075
+1608841408344	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1894: TypeError: currentPanel is undefined
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1894: TypeError: currentPanel is undefined
+console.info: MINT: main/search-config update being skipped
+1608841569037	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJZEihd"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608841571723	Marionette	INFO	Listening on port 35801
+1608841571780	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608841613499	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0D1o65"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608841616397	Marionette	INFO	Listening on port 44841
+1608841616457	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: main/search-config update being skipped
+1608841720680	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeaPWTy"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608841723027	Marionette	INFO	Listening on port 42075
+1608841723107	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: main/search-config update being skipped
+1608841816040	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebepRsn"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608841818214	Marionette	INFO	Listening on port 37677
+1608841818282	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608841954019	Marionette	INFO	Stopped listening on port 37677
+console.info: MINT: main/search-config update being skipped
+1608841962018	Marionette	INFO	Stopped listening on port 35801
+1608841963190	Marionette	INFO	Stopped listening on port 42075
+1608841965176	Marionette	INFO	Stopped listening on port 44841
+1608841967867	Marionette	INFO	Stopped listening on port 36747
+1608841969931	Marionette	INFO	Stopped listening on port 39579
+1608842014707	Marionette	INFO	Stopped listening on port 46075
+1608842040547	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGYps6J"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608842042664	Marionette	INFO	Listening on port 33153
+1608842042774	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608842201249	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilej2U4cw"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608842203460	Marionette	INFO	Listening on port 35133
+1608842203587	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1608842277824	Marionette	INFO	Stopped listening on port 33153
+console.info: MINT: main/search-config update being skipped
+1608842781220	Marionette	INFO	Stopped listening on port 35133
+1608843689475	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMAPEL8"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608843691668	Marionette	INFO	Listening on port 35565
+1608843691711	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608843700586	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledKlgH8"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608843702947	Marionette	INFO	Listening on port 46079
+1608843703024	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608843748639	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAUZd0l"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608843750688	Marionette	INFO	Listening on port 40181
+1608843750786	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608843759799	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUqafF4"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608843761781	Marionette	INFO	Listening on port 37463
+1608843761825	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608843782449	Marionette	INFO	Stopped listening on port 37463
+1608843796823	Marionette	INFO	Stopped listening on port 40181
+1608843801707	Marionette	INFO	Stopped listening on port 35565
+1608843817697	Marionette	INFO	Stopped listening on port 46079
+1608843851095	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUCMxDg"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608843853340	Marionette	INFO	Listening on port 35001
+1608843853421	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608843862316	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewKYy37"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608843864527	Marionette	INFO	Listening on port 39031
+1608843864644	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sauron.sistemas.ro.gov.br/vendors/modernizr/modernizr.custom.js, line 1706: Script terminated by timeout at:
+@https://sauron.sistemas.ro.gov.br/vendors/modernizr/modernizr.custom.js:1706:3
+testRunner@https://sauron.sistemas.ro.gov.br/vendors/modernizr/modernizr.custom.js:144:55
+@https://sauron.sistemas.ro.gov.br/vendors/modernizr/modernizr.custom.js:1770:3
+@https://sauron.sistemas.ro.gov.br/vendors/modernizr/modernizr.custom.js:1789:3
+
+1608843891738	Marionette	INFO	Stopped listening on port 39031
+1608843893932	Marionette	INFO	Stopped listening on port 35001
+1608843958863	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDYh8j3"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608843960881	Marionette	INFO	Listening on port 46559
+1608843961001	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608843969469	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilea8TYfK"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608843971871	Marionette	INFO	Listening on port 34169
+1608843971899	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608843987028	Marionette	INFO	Stopped listening on port 34169
+1608843989416	Marionette	INFO	Stopped listening on port 46559
+1608844307313	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemMAs62"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608844309450	Marionette	INFO	Listening on port 40323
+1608844309542	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608844318791	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXpqg4q"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608844321237	Marionette	INFO	Listening on port 46157
+1608844321316	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PurgeTrackerService.jsm, line 387: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIScriptSecurityManager.createContentPrincipalFromOrigin]
+console.info: MINT: main/search-config update being skipped
+console.info: MINT: main/search-config update being skipped
+1608845095481	Marionette	INFO	Stopped listening on port 46157
+1608845177300	Marionette	INFO	Stopped listening on port 40323
+1608945535345	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledtX6hv"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608945537909	Marionette	INFO	Listening on port 33409
+1608945537976	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608945548175	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJl57k6"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608945550324	Marionette	INFO	Listening on port 43663
+1608945550408	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608945554635	Marionette	INFO	Stopped listening on port 43663
+1608945556868	Marionette	INFO	Stopped listening on port 33409
